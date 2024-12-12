@@ -12,7 +12,7 @@ Titanic Analysis
 - Provide strategic suggestions for future sales
 - Improve saes outcome over time
 
-- ### Data Source
+### Data Source
 - The data used was downloaded from kaggle
 
 - ### Tools used
